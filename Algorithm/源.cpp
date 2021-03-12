@@ -3,7 +3,7 @@ int main() {
 	using namespace std;
 
 	int sum = 0;
-	cout << "请输入一串数字和任意数目的空格；";
+	cout << "请输入一串数字和任意数目的空格";
 	int i;
 	while (cin >> i)
 	{
