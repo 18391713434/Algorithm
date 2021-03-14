@@ -14,6 +14,8 @@ int main() {
 		}
 		if( cin.peek() == '\n' )
 		{
+
+
 			break;
 
 		}
