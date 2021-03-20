@@ -14,24 +14,17 @@ int main() {
 		}
 		if( cin.peek() == '\n' )
 		{
-
-
 			break;
 
 		}
+
+
 
 
 	}
 
 
 	cout << "½á¹ûÊÇ" << sum << endl;
-
-
-
+	
 	return 0;
-}      
-
-
-
-
-
+}
