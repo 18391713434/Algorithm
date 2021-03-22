@@ -8,6 +8,7 @@ int main() {
 	int i;
 	while (cin >> i)
 	{
+	
 		sum += i;
 		while( cin.peek() == ' ' )
 		{
