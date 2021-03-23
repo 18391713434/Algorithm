@@ -12,7 +12,8 @@ int main() {
 		sum += i;
 		while( cin.peek() == ' ' )
 		{
-			cin.get();
+		
+			`cin.get();
 		}
 		if( cin.peek() == '\n' )
 		{
