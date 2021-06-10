@@ -43,6 +43,11 @@ int main() {
 
 
 
+
+
+
+
+
 	cout << "½á¹ûÊÇ" << sum << endl;
 
 
